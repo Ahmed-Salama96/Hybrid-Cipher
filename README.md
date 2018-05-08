@@ -1,0 +1,2 @@
+# Hybrid-Cipher
+A python script that performs a Hybrid cipher on plain text. it uses RSA and AES combined together. the script contains three functions.. generate(): which generate public key and private key for the user... encrypt(plaintext): takes a plain text and return a ciphertext message that you will send to the other end... decrypt(ciphertext): takes a ciphertext and perform decryption mechanism to it and print the plain text again... you can import this module to your project if you want to secure your communication and perform authorization.
