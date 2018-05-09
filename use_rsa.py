@@ -1,4 +1,6 @@
+#import the other file we created
 import rsa
+
 
 def print_private():
 	fd = open("private_key.pem", "r")
